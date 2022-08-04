@@ -16,3 +16,57 @@ Continuous delivery is an extension of continuous integration since it automatic
 Continuous Deployment 
 Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There's no human intervention, and only a failed test will prevent a new change to be deployed to production. Continuous deployment is an excellent way to accelerate the feedback loop with your customers and take pressure off the team as there isn't a "release day" anymore. Developers can focus on building software, and they see their work go live minutes after they've finished working on it.
 
+
+
+
+
+
+
+
+
+Q) What are the benefits of Cloud Computing.
+12 business advantages of cloud computing.
+Cost Savings
+Security
+Flexibility
+Mobility
+Insight
+Increased Collaboration
+Quality Control
+Disaster Recovery
+Loss Prevention
+Automatic Software Updates
+Competitive Edge
+Sustainability
+
+1. Cost Savings
+If you are worried about the price tag that would come with making the switch to cloud computing, you aren't alone 20% of organisations are concerned about the initial cost of implementing a cloud-based server. But those who are attempting to weigh the advantages and disadvantages of using the cloud need to consider more factors than just initial price they need to consider ROI.
+
+2. Security
+Many organisations have security concerns when it comes to adopting a cloud-computing solution. After all, when files, programs, and other data aren't kept securely onsite, how can you know that they are being protected? If you can remotely access your data, then what's stopping a cybercriminal from dorganisation to take care of all IT hosting and infrastructure, you'll have more time to devote toward the aspects of your business that directly affect your bottom line.
+
+4. Mobility
+Cloud computing allows mobile access to corporate data via smartphones and devices, which, considering over 2.6 billion smartphones are being used globally today, is a great way to ensure that no one is ever left out of the loop. Staff with busy schedules, or who live a long way away from the corporate office, can use this feature to keep instantly up to date with clients and co-worker.
+
+5. Insight
+As we move ever further into the digital age, it's becoming clearer and clearer that the old adage “knowledge is power” has taken on the more modern and accurate form: “Data is money.” Hidden within the millions of bits of data that surround your customer transactions and business process are nuggets of invaluable, actionable information just waiting to be identified and acted upon. Of course, sifting through thaaveooking at the previous analogy, this is your ‘Go’ position. So, a commit is a set of new files that are being added to a project as part of the modification. Each commit represents the changes made to project in the past, with the details about the time at which commit was made and the author of the code. So, finally when you make a commit, and it gets committed, then this simply means that you have successfully applied a certain modification to the code.
+
+Q) 3 methods of git reset?
+These varieties interact with the three Git trees:
+•	soft: only changes HEAD, but doesn’t change staged files in index or working files.
+•	mixed: moves HEAD and updates the index with the contents of the revision to which HEAD now points.
+•	hard: moves HEAD and updates the index and working directory—this is the only version of reset that can cause data loss.
+oing the same thing? Well, quite a bit, actually.
+For one thing, a cloud host's full-time job is to carefully monitor security, whidd. So, this command tracks the new changes and pushes it to the staging area. So, staging area is place prior to the actual implementation of changes, i.e. this area contains all the added files that contain new code, which are ready to be joined to the remote repository. So, all the new files are first pushed to the staging area. This can also be understood with an analogy. We all must have participated in a race or some sort of athletic event. Before, the race begins, we hear three words, Get, Set…, Go! Now, we can think of ‘Set’ as the staging area. So, this is an indication that make yourself ready, as the race is about to start. Similarly, staging area is a place mote repository.
+
+• Commit:
+This is the final stage, as this stage finally applies the new changes to the remote repository. Lch is significantly more efficient than a conventional in-house system, where an organisation must divide its efforts between a myriad of IT concerns, with security being only one of them. Andl very abstract, so let's consider some solid statistics.
+
+3. Flexibility
+Your business has only a finite amount of focus to divide between all of its responsibilities. If your current IT solutions are forcing you to commit too much of your attention to computer and data-storage issues, then you aren't going to be able to concentrate on reaching business goals and satisfying customers. On the other hand, by relying on an outside  access to the right cloud-computing solution.
+
+6. Increased Collaboration
+If your business has two employees or more, then you should be making collaboration a top priority. After all, there isn't much point to having a team if it is unable to work like a team. Cloud computing makes collaboration a simple process. Team members can view and share information easily and securely across a cloud-based platform. Some cloud-based services even provide collaborative social spaces to connect employees across your organisation, therefore increasing interest and engagement. Colla Cloud-based applications automatically refrewer internal Icloud computinces them at a dfits of the cloud at their fingertips. If you implement a along the learning curve by the time they ca%  programmes goals include speed, data integrity, and support fM) control system Git, goes through three stages e that you create on your local machine) of the original project that is being maintained via Git. Set’s look at the second stage in Git, i.e. stges to our remote repository? So, we use the commands in the Git command line — git a ity of internal data theft, the truth is that a staggeringly high percentage of data thefts occur internctive.
+
+7. Quality Control
+Thed of any revisions or updates. Conversely, managing information in silos can  a business is controy be wven a small amount of unproductive downtime can have a red to the office computers it resides in. This may not seemexperiences a problem, you might end up permanently losing your da. Ths is a more commo problem than you mihating
